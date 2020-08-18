@@ -29,7 +29,7 @@
 * [PSYC 260: Introduction to Mental Health & Well-Being](/Notebook/PSYC%20260)
 	* [Course Outline](/Notebook/PSYC%20260/260A01CourseOutlineWoodin.pdf)
 * [PSYC 345A: Drugs and Behaviour: Basic Principles](/Notebook/PSYC%20345A)
-	* [Course Outline](https://www.uvic.ca/socialsciences/psychology/assets/docs/courseoutlines/spring2018/345AA01CourseOutlineGordonSpring2018.pdf)
+	* [Course Outline](/Notebook/PSYC%20345A/345AA01CourseOutlineGordonSpring2018.pdf)
 * [SENG 265: Software Development Methods](/Notebook/SENG%20265)
 	* [Course Outline](https://heat.csc.uvic.ca/coview/outline/2016/Fall/SENG/265) 
 * [SENG 360: Security Engineering](/Notebook/SENG%20360)
